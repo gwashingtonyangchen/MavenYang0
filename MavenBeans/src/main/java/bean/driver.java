@@ -9,11 +9,6 @@ public class driver {
 	   {
 		   super();
 	   }
-	   public driver (String name, String color, int year) {
-		   this.name=name;
-		   this.color=color;
-		   this.year=year;
-	   }
 	   public void setName (String name)
 	   {
 		   this.name=name;
